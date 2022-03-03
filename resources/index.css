@@ -1,0 +1,46 @@
+* {
+    font-family: Helvetica;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    background-image: url(./images/pattern.jpeg);
+}
+
+.subheading {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+figure {
+    margin: 0;
+}
+
+figcaption {
+    margin: 18.72px 0;
+    font-weight: bold;
+    font-size: 18.72px;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+.green {
+    background-color: mediumspringgreen;
+}
+
+.coral {
+    background-color: lightcoral;
+}
+
+.blue {
+    background-color: skyblue;
+}
+
+
