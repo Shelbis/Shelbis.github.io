@@ -3,8 +3,7 @@
 }
 
 h1 {
-    font-weight: bold;
-    font-size: 100px;
+    font: bold 100px Helvetica;
     color: khaki;
     text-align: center;
     background-image: url(./images/pattern.jpeg);
